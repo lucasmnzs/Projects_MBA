@@ -16,4 +16,4 @@ Interactive web app to explore vehicle sales data.
 streamlit run app.py
 
 ## Live App
-<URL DO RENDER AQUI>
+https://projects-mba.onrender.com/
